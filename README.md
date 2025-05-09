@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django.<br>👯 I’m looking to collaborate on interesting backend projects.<br>🤝 I’m looking for help with Frontend development.<br>🌱 I’m currently learning Machine Learning, Gen AI.<br>💬 Ask me about anything related to Python, Software Engineering.<br>⚡ Fun fact C/C++ are also High level languages.
+🔭 I’m currently working on Django.<br>👯 I’m looking to collaborate on interesting backend projects.<br>🤝 I’m looking for help with Frontend development.<br>🌱 I’m currently learning Machine Learning, Gen AI.<br>💬 Ask me about anything related to Python, Software Engineering.<br>
 
 
 ## 🌐 Socials:
