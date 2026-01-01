@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Team Shiksha as an Open Source Developer.<br>👯 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with learning Machine Learning.<br>🌱 I’m currently learning Operating Systems, Computer Networks.<br>💬 Ask me about Data Structures, Algorithms
+🔭 I’m currently working as an Open Source Developer.<br>👯 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with learning Machine Learning.<br>🌱 I’m currently learning Operating Systems, Computer Networks.<br>💬 Ask me about Data Structures, Algorithms
 
 
 ## 🌐 Socials:
